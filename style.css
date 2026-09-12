@@ -2,10 +2,17 @@
   box-sizing: border-box;
 }
 
+head{
+    background: #473764;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+
 body {
   background: linear-gradient(0deg, #f7f7f7 24%, #fcdddd 92%);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   margin: 0;
+  width: 100%;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -14,11 +21,11 @@ body {
 }
 
 h1 {
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .music-container {
-    background: #fff;
+    background: #473764;
     border-radius: 15px;
     box-shadow: 0 20px 20px rgba(252, 169, 169, 0.6);
     display: flex;
@@ -61,6 +68,8 @@ h1 {
     left: 20px;
     width: calc(100% - 40px);
     padding: 10px 10px 10px 150px;
+    opacity: 0;
+    transform: translateY(0%);
     transition: transform 0.3s ease-in, opacity 0.3s ease-in;
     z-index: 0;
 }

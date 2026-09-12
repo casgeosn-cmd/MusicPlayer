@@ -4,7 +4,7 @@
 
 body {
   background: linear-gradient(0deg, #f7f7f7 24%, #fcdddd 92%);
-  font-family: fantasy, sans-serif;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   margin: 0;
   height: 100vh;
   display: flex;

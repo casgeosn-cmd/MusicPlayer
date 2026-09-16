@@ -27,15 +27,15 @@ h1 {
 
 
 .music-container {
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
     background: #473764;
     border-radius: 15px;
     box-shadow: 0 20px 20px rgba(252, 169, 169, 0.6);
     display: center;
     align-items: center;
     padding: 20px 30px;
-    position: fixed;
+    
 }
 }
 

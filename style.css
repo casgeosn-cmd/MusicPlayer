@@ -45,8 +45,6 @@ h1 {
 }
 
 .img-container img {
-    margin-top: 5px;
-    margin-bottom: 5px;
     width: 110px;
     height: 110px;
     border-radius: 50%;

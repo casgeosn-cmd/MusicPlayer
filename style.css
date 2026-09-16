@@ -125,7 +125,7 @@ h1 {
 }
 
 .navigation {
-  display: flex;
+  display: center;
   align-items: center;
   justify-content: center;
   z-index: 1;

@@ -84,7 +84,7 @@ h1 {
 }
 
 .music-container.play .music-info {
-    position:absolute;
+    position:center;
     opacity: 1;
     transform: translateX(-100%);
 }

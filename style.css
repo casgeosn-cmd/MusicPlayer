@@ -19,7 +19,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-
+}
 
 h1 {
     margin-bottom: 50px;
@@ -127,4 +127,4 @@ h1 {
   font-size: 30px;
   color: #cdc2d0;
 }
-}
+

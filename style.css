@@ -128,24 +128,3 @@ h1 {
   color: #b87fb8
 }
 
-footer {
-  background-color: #f7f7f7;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  margin: 10;
-  height: 100vh;
-  display: flex;
-  flex-direction:row;
-  align-items: center;
-  justify-content: center;
-}
-.song-info {
-    background-color: #f7f7f7;
-    position: relative;
-    border-radius: 10px;
-    padding: 10px 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 20px;
-    
-
-}
